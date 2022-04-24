@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/quinta-do-sapinho/static/css/main.8a976097.css",
+    "main.js": "/quinta-do-sapinho/static/js/main.24733147.js",
+    "static/js/787.bbe01249.chunk.js": "/quinta-do-sapinho/static/js/787.bbe01249.chunk.js",
+    "static/media/logo.png": "/quinta-do-sapinho/static/media/logo.3adbe4be6d6ff7ffbfaf.png",
+    "index.html": "/quinta-do-sapinho/index.html",
+    "main.8a976097.css.map": "/quinta-do-sapinho/static/css/main.8a976097.css.map",
+    "main.24733147.js.map": "/quinta-do-sapinho/static/js/main.24733147.js.map",
+    "787.bbe01249.chunk.js.map": "/quinta-do-sapinho/static/js/787.bbe01249.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a976097.css",
+    "static/js/main.24733147.js"
+  ]
+}

@@ -1,0 +1,8 @@
+.header {
+    height: 200px;
+    background-color: #324054;
+    background-image: linear-gradient(to right, #324054, #596575);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
